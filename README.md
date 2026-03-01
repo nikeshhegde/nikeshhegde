@@ -1,10 +1,10 @@
-👋 Hi, I'm YourName
+👋 Hi, I'm Nikesh Hegde
 
 🚀 Passionate Developer | 💻 Tech Enthusiast | 🌍 Open Source Lover
 
 🧑‍💻 About Me
 
-🔭 Currently working on exciting web & software projects
+🔭 Backend Java Engineer | Distributed Systems & Cloud | Telecom, FinTech & Insurance | Security-Focused | AWS Certified
 
 🌱 Learning new technologies every day
 
