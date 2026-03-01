@@ -22,35 +22,38 @@ I am an AWS Certified Cloud Practitioner and bring a strong understanding of clo
 ⚡ Fun fact: I turn coffee into code ☕
 
 
-Core Skills:
-
 🚀 Tech Stack
 💻 Languages
 
-Java | J2EE | Microservices | REST APIs | JMS | CDI | NETCONF | Docker | Kubernetes | Helm | Maven | Jenkins | JUnit | Mockito | SonarQube | BPMN | JSF | JSP | HTML | JavaScript | PostgreSQL | MySQL | Agile | Secure Coding | AWS Cloud
-
-
-
+  Java
+  Python
 
 🌐 Frontend
 
-
-
-
-
+JSF | JSP | HTML | JavaScript 
 
 🛠 Backend
 
-
-
+J2EE
+Microservices
+REST APIs
+JMS
+Docker
+Kubernetes
+NETCONF
+Helm
+Jenkins
+JUnit
+Maven
+Mockito
 
 🗄 Database
 
-
+PostgreSQL
+MySQL
 
 
 📊 GitHub Stats
-
 
 
 🌐 Connect With Me
@@ -60,4 +63,4 @@ https://github.com/nikeshhegde/
 
 
 
-⭐️ From YourName
+⭐️ From Nikesh Hegde
