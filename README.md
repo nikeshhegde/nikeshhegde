@@ -1,6 +1,6 @@
 👋 Hi, I'm Nikesh Hegde
 
-🚀 Passionate Developer | 💻 Tech Enthusiast | 🌍
+🚀 Passionate Developer | 💻 Tech Enthusiast | 🌍 AI Enthusiast
 
 🧑‍💻 About Me
 Software engineer with 9 years of experience in designing, developing, and maintaining scalable, production-grade systems across Telecom and Financial Services domains. Over the past 5 years at Ericsson Software, Ireland, I have contributed to Cloud RAN (ORAN/Cloud RAN) and Ericsson Network Manager (ENM) projects, building cloud-native backend solutions for network log collection, node management, and monitoring. I specialize in Java (1.8+), J2EE, JMS, CDI, and NETCONF, with hands-on exposure to Docker, Kubernetes, Helm, and cloud environments for troubleshooting and deployment validation.
