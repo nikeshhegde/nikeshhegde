@@ -19,8 +19,6 @@ I am an AWS Certified Cloud Practitioner and bring a strong understanding of clo
 
 🎯 Goal: Build impactful products that solve real problems
 
-⚡ Fun fact: I turn coffee into code ☕
-
 
 🚀 Tech Stack
 💻 Languages
