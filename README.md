@@ -15,7 +15,7 @@ I am an AWS Certified Cloud Practitioner and bring a strong understanding of clo
 
 🌱 Learning new technologies every day
 
-💡 Interested in Full-Stack Development & AI
+💡 Interested in Backend , Full-Stack Development & AI
 
 🎯 Goal: Build impactful products that solve real problems
 
