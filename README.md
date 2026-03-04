@@ -5,7 +5,7 @@
 🧑‍💻 About Me
 Software engineer with 9 years of experience in designing, developing, and maintaining scalable, production-grade systems across Telecom and Financial Services domains. Over the past 5 years at Ericsson Software, Ireland, I have contributed to Cloud RAN (ORAN/Cloud RAN) and Ericsson Network Manager (ENM) projects, building cloud-native backend solutions for network log collection, node management, and monitoring. I specialize in Java (1.8+), J2EE, JMS, CDI, and NETCONF, with hands-on exposure to Docker, Kubernetes, Helm, and cloud environments for troubleshooting and deployment validation.
 
-As the Security Master for my team, I have led security initiatives, including CVSS scoring, vulnerability assessments, and privacy impact reviews, ensuring reliable and safe deployments across cloud and on-premise systems. I am comfortable working with REST APIs and microservices, and I embrace innovation using AI-assisted development tools like Codeium/Amazon Q to accelerate learning and improve code quality.
+As the Security Master for my team, I have led security initiatives, including CVSS scoring, vulnerability assessments, and privacy impact reviews, ensuring reliable and safe deployments across cloud and on-premise systems. I am comfortable working with REST APIs and microservices, and I embrace innovation using AI-assisted development tools like Amazon Q to accelerate learning and improve code quality.
 
 Earlier, at Newgen, I designed and implemented BPMN-based workflows and dynamic web interfaces, streamlining new business proposal and underwriting processes, Education Loan and Credit Card application. I collaborated with business users and cross-functional teams to optimize operations, integrate APIs, and ensure production stability.
 
